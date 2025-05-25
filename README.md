@@ -110,5 +110,3 @@ The interactive GUI allows oncologists to:
 3. UCI ML Repository: Wisconsin Breast Cancer Dataset    
 
 ---
-
-This README is detailed enough for a new user or recruiter to understand the project goals, setup process, and outputs. Let me know if you need further refinements or additional sections!
